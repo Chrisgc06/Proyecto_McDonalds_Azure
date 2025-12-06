@@ -8,7 +8,7 @@ from PIL import Image
 import pandas as pd
 
 BASE_ENDPOINT_URL = "https://eastus.api.cognitive.microsoft.com/customvision/v3.0/Prediction/c8c26e88-95cb-485b-9018-19be9111d171/detect/iterations/"
-PREDICTION_KEY = "3pXtAr2NT2A69563TCPpfDHZPlIwCaIsDGbeSZNj1jYGzdf7Kg2sJQQJ99BLACYeBjFXJ3w3AAAIACOG3sh0"
+PREDICTION_KEY = "Predicction key aqui"
 CONFIDENCE_THRESHOLD = 0.50
 
 AVAILABLE_ITERATIONS = [
